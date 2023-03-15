@@ -1,0 +1,24 @@
+// C++ code
+
+int ledPin = 11;
+int switchPin = 7;
+
+void setup()
+{
+  pinMode(ledPin, OUTPUT);
+  pinMode(switchPin, INPUT);
+  
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  if(digitalRead(switchPin))
+  {
+    digitalWrite(ledPin, HIGH);
+  }
+  else
+  {
+    digitalWrite(ledPin, LOW);
+  }
+} 
