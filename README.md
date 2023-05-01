@@ -1,7 +1,7 @@
 
 # IoT 
 
-All the above projects are only based on Aurdino board projects in future other projects will came..
+All the above projects are only based on Aurdino board projects in future other projects will came...
 
 # Note: 
 In some programs i skiped the registers because in my system they work without registers also so if any warning was ditected you just add registers
