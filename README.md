@@ -21,3 +21,4 @@ I used different colours for different wires, I think this is very easy to learn
 - Live previews
 - Fullscreen mode
 - Cross platform
+
